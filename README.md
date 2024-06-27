@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a 3d Modeling application
 - 🌱 I’m currently studying computer science at Penn State University
 - 😄 Pronouns: He\Him
 
